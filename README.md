@@ -1,5 +1,9 @@
 # Traffic fatalities
 
+La parte de extraccion de datos con BigQuery fue realizado en conjunto con: Luis Cancino, Abel Lopez y Sebastian Filipini.
+
+El analisis en notebook fue realizado de manera individual.
+
 El archivo notebook "desafio1.ipynb" aborda las preguntas presentadas en "Desafio1.md". A continuación, presentaremos un resumen de los resultados obtenidos. Si desea ver detalles de las gráficas, consulte directamente el notebook mencionado.
 
 Hemos empleado datos de acceso público de BigQuery. La consulta que realizamos fue:
