@@ -18,3 +18,45 @@ Dicha consulta se llevó a cabo en el servidor de BigQuery, resultando en la obt
 |  2 |              1 | Alabama      |                10192 |                                       1 |                                            1 |                                   0 |                                                             0 |                                                         1 |                                                       1 |                                                           0 |      101 |   2130 |             28 |         28 |                4 | April                 |            2015 |             3 | Tuesday            |               8 | 8:00am-8:59am        |                11 |                     11 |                         1 | This section IS ON the NHS     |               1 | Interstate           | I-85                    |                       nan |          2 | Urban           |                   1 | Interstate               |           1 | State Highway Agency |         110 |              110 |    32.367  |         32.367  |    -86.1433 |         -86.1433 |                      0 | No Special Jurisdiction     |                     1 | Rollover/Overturn          |                     0 | Not a Collision with Motor Vehicle In-Transport |                                              0 | No                                                  |                                        1 | Non-Junction                                  |                      1 | Not an Intersection         |           0 |              nan |                        3 | On Median                     |                 1 | Daylight               |                          1 | Clear                           |                          0 | No Additional Atmospheric Conditions |                        1 | Clear                         |                    0 | No                        |                          0000000 | Not Applicable                        |                     99 | Unknown                     |                       99 | Unknown                       |                          8 | 8:00am-8:59am                   |                           15 |                                15 |                                88 | Not Applicable (Not Transported)       |                                  88 | Not Applicable (Not Transported)         |                               0 |                                  nan |                               0 |                                  nan |                               0 |                                  nan |                      1 |                         0 | 2015-04-28 08:11:00 UTC |
 |  3 |              1 | Alabama      |                10204 |                                       1 |                                            1 |                                   0 |                                                             0 |                                                         3 |                                                       3 |                                                           0 |       53 |      0 |              1 |          1 |                5 | May                   |            2015 |             6 | Friday             |              18 | 6:00pm-6:59pm        |                15 |                     15 |                         1 | This section IS ON the NHS     |               1 | Interstate           | I-65                    |                       nan |          1 | Rural           |                   1 | Interstate               |           1 | State Highway Agency |         639 |              639 |    31.1433 |         31.1433 |    -87.4097 |         -87.4097 |                      0 | No Special Jurisdiction     |                     1 | Rollover/Overturn          |                     0 | Not a Collision with Motor Vehicle In-Transport |                                              1 | Yes                                                 |                                       19 | Other location within Interchange Area        |                      1 | Not an Intersection         |           0 |              nan |                        3 | On Median                     |                 2 | Dark - Not Lighted     |                          1 | Clear                           |                          0 | No Additional Atmospheric Conditions |                        1 | Clear                         |                    0 | No                        |                          0000000 | Not Applicable                        |                     18 | 6:00pm-6:59pm               |                       34 | 34                            |                         18 | 6:00pm-6:59pm                   |                           45 |                                45 |                                99 | Unknown                                |                                  99 | Unknown EMS Hospital Arrival Time        |                               0 |                                  nan |                               0 |                                  nan |                               0 |                                  nan |                      1 |                         0 | 2015-05-01 18:15:00 UTC |
 |  4 |              1 | Alabama      |                10231 |   
+
+
+
+A partir del análisis de la base de datos, hemos identificado diversas tendencias y estadísticas relevantes en relación a los accidentes de tráfico:
+
+- ### Por Estados:
+    - Texas lidera la lista con 3,189 accidentes.
+    - En cuanto a fallecimientos, los 5 estados con mayor número de muertes son: Texas, California, Florida, Georgia y North Carolina.
+
+- ### Por Terreno:
+
+    - Las áreas Urbanas tienen el mayor registro con 16,429 accidentes.
+
+- ### Por Empresas:
+
+    - State Highway Agency reporta el mayor número de accidentes con un total de 16,022.
+
+- ### Por Carreteras:
+
+    - La carretera I-10 figura con 274 accidentes.
+
+- ### Por Meses:
+
+    - Febrero es el mes con el menor número de accidentes (1,971), mientras que Octubre encabeza la lista con 3,049 accidentes.
+    - En cuanto a accidentes que involucran a conductores ebrios, Agosto y Mayo presentan las cifras más elevadas. Contrariamente a lo que uno podría esperar, no se observan picos en los meses de fiestas de fin de año.
+
+- ### Por Horarios:
+
+    - La franja horaria entre 15:00 y 22:00 hrs es donde ocurren la mayoría de los accidentes.
+    - El horario con mayor número de fallecimientos es a las 18:00 hrs. En general, las horas punta de la tarde registran un mayor número de accidentes.
+
+
+- ### Análisis Detallado:
+
+    - Se llevó a cabo un análisis detenido de los cinco estados con mayor número de muertes. Se detectó una tendencia similar entre Texas, California y Florida, con un pico de fallecimientos alrededor de las 8-9 pm. Por otro lado, Georgia y North Carolina presentan una segunda tendencia, con cifras más bajas.
+
+- ### Relación con el Alcohol:
+
+    Ademas de lo ya antes mencionado en el apartado de los meses:
+    - El 28% de los accidentes involucra al menos un conductor en estado de ebriedad.
+
+Estos hallazgos brindan una perspectiva sobre los patrones y causas subyacentes de los accidentes de tráfico, permitiendo orientar futuras estrategias de prevención y educación vial.
